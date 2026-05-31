@@ -15,7 +15,6 @@
 <br/>
 
 > I'm **Htoo Tay Za** — a self-taught developer focused on the applied AI and backend stack.
-> I build at the intersection of **retrieval**, **reasoning**, and **agent memory**.
 > Clean APIs. Observable pipelines. Systems that scale.
 
 <br/>
