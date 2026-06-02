@@ -15,7 +15,6 @@
 <br/>
 
 > I'm **Htoo Tay Za** — a self-taught developer focused on the applied AI and backend stack.
-> Clean APIs. Observable pipelines. Systems that scale.
 
 <br/>
 
