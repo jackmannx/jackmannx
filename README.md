@@ -103,7 +103,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HtooTayZa&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e" />
+<img src="https://streak-stats.demolab.com?user=jackmannx&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
