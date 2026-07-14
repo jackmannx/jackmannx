@@ -78,25 +78,6 @@
 
 ---
 
-## ✦ Featured Projects
-
-<br/>
-
-<div align="center">
-
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-|---|---|
-| **[🔍 AlphaRag](https://github.com/HtooTayZa/AlphaRag)** | **[⚡ Dispatch](https://github.com/HtooTayZa/Dispatch)** |
-| Enterprise-grade Parent-Child RAG for dense document analysis. Hybrid search · BGE-M3 embeddings · Automated LLM metadata · Streaming citations. | Autonomous support triage agent — LangGraph pipeline that classifies, routes, and drafts. Full end-to-end observability via Langfuse. |
-| `LangChain` `Qdrant` `Groq` `Chainlit` | `FastAPI` `LangGraph` `Ollama` `n8n` |
-| **[🧠 sawtooth-memory](https://github.com/HtooTayZa/sawtooth-memory)** | **[→ More coming](https://github.com/HtooTayZa)** |
-| Async context middleware for LLM agents. Solves "Lost in the Middle" via background compression with zero agent latency. | Always in the middle of something. Watch the profile or check back soon. ⭐ Star a repo if something's useful. |
-| `asyncio` `Pydantic` `Ollama` | &nbsp; |
-
-</div>
-
----
-
 ## 📊 Stats
 
 <br/>
